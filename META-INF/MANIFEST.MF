@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AWT_Project
+Bundle-SymbolicName: AWT_Project;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.core.runtime
+Automatic-Module-Name: AWT.Project
+Bundle-RequiredExecutionEnvironment: JavaSE-16
